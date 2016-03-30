@@ -163,6 +163,6 @@ Generating...
   Liquid Exception: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed in C:/Users/Me/websites/test/_posts/2016-03-30-code-blocks.markdown jekyll 3.0.3 | Error:  SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
 ```
 
-`jekyll-gist` works on GitHub Pages, but the error above persists locally. Known issue reported at https://github.com/jekyll/jekyll-gist/issues/30#issuecomment-203257934
+`jekyll-gist` works on GitHub Pages, but the error above persists locally. Known issue reported at <https://github.com/jekyll/jekyll-gist/issues/30#issuecomment-203257934>
 
 
