@@ -15,4 +15,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: /:year/:title/
-keep_files: [php]
+keep_files: [php, pdf]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "robots.txt"]
+gems:
+  - jekyll-gist
