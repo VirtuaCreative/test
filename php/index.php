@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?php 
+$one = 1;
+echo $one;
+ ?>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
